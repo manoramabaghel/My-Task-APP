@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f22bd35e-ad03-4837-ab18-416d8391ec61" name="Changes" comment="Add Project for My_Task_App" />
+    <list default="true" id="f22bd35e-ad03-4837-ab18-416d8391ec61" name="Changes" comment="Add Project for My_Task_App">
+      <change afterPath="$PROJECT_DIR$/My_Task_App1/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/My_Task_App1/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Task_App1/static/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/My_Task_App1/static/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Task_App1/static/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/My_Task_App1/static/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Task_App1/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/My_Task_App1/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Task_App1/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/My_Task_App1/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Task_App1/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/My_Task_App1/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -33,6 +43,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "Python.app.executor": "Run",
     "Python.apps.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -40,7 +51,29 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyTaskApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/My_Task_App1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/My_Task_App1/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="apps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyTaskApp" />
       <option name="ENV_FILES" value="" />
@@ -87,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app" />
         <item itemvalue="Python.apps" />
       </list>
     </recent_temporary>
